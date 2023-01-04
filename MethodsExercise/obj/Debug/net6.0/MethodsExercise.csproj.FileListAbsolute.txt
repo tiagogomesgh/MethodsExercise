@@ -1,0 +1,15 @@
+/home/tiago/projects/TrueCoders/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise
+/home/tiago/projects/TrueCoders/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.deps.json
+/home/tiago/projects/TrueCoders/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.runtimeconfig.json
+/home/tiago/projects/TrueCoders/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.dll
+/home/tiago/projects/TrueCoders/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.pdb
+/home/tiago/projects/TrueCoders/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.csproj.AssemblyReference.cache
+/home/tiago/projects/TrueCoders/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/tiago/projects/TrueCoders/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.AssemblyInfoInputs.cache
+/home/tiago/projects/TrueCoders/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.AssemblyInfo.cs
+/home/tiago/projects/TrueCoders/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.csproj.CoreCompileInputs.cache
+/home/tiago/projects/TrueCoders/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.dll
+/home/tiago/projects/TrueCoders/MethodsExercise/MethodsExercise/obj/Debug/net6.0/refint/MethodsExercise.dll
+/home/tiago/projects/TrueCoders/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.pdb
+/home/tiago/projects/TrueCoders/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.genruntimeconfig.cache
+/home/tiago/projects/TrueCoders/MethodsExercise/MethodsExercise/obj/Debug/net6.0/ref/MethodsExercise.dll
